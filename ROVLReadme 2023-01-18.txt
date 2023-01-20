@@ -5,10 +5,11 @@ CeruleanTracker User Manual: https://cerulean-sonar.gitbook.io/ceruleantracker-u
 
 *********** Major changes for this release **************
 
-December 2023
+January 2023
 
 - Added ablity to send & receive device IDs (0-15) to Mk II and Mk III models
-- Added ability to poll transponders by device ID (Mk III only)  
+- Added ability to poll transponders by device ID (Mk III only) 
+- Added switch to control IMU mode (see 'T' command) 
 
 November 2022
 
