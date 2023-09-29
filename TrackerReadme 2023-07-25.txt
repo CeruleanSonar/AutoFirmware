@@ -1,10 +1,15 @@
 CeruleanTracker Release Notes
 
-July 2023
-
+Sept 2023
 - Many bug fixers and minor enhancements
 - Added support for DVL-50 product
 - Added support for DPH-75 software product
+- Revised Ethernet Discover to accomodate more devices
+
+July 2023
+- Many bug fixers and minor enhancements
+- Added Ceruelan IMU Calibrator
+- More support for DVL-50, DVL-75, DPH-75
 
 November 2022
 - Several ease-of-use improvements
