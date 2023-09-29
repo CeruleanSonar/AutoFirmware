@@ -5,6 +5,9 @@ CeruleanTracker User Manual: https://cerulean-sonar.gitbook.io/ceruleantracker-u
 
 *********** Major changes for this release **************
 
+September 2023
+- Added Cerulean IMU support for Mk III
+
 March 2023
 - Non-critical updates to support bricked-mode recovery (RX, TX, and Cerulean Tracker)
 
