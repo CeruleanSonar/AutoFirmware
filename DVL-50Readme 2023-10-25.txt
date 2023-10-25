@@ -23,7 +23,7 @@ Known Points.txt -- an example file with decorations and waypoints
    used with CeruleanMap. This file should go on your desktop. It is
    described in the CeruleanTracker User Manual.
 
-DVL-50 yyyy-mm-dd.elf -- most recent firmware for the DVL-50.
+DVL-50-Master yyyy-mm-dd.elf -- most recent firmware for the DVL-50.
 
 **************** IMPORTANT ******************
 
