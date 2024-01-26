@@ -6,7 +6,7 @@ CeruleanTracker Manual: https://cerulean-sonar.gitbook.io/ceruleantracker-user-m
 *********** Major changes for this release **************
 
 January 2024
-- Treaks to the $DVNVM message
+- Tweaks to the $DVNVM message
 
 November 2023
 - Bug fixes and minor enhancements
