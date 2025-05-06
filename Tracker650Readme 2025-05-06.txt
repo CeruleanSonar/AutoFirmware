@@ -8,6 +8,7 @@ CeruleanTracker Manual: https://cerulean-sonar.gitbook.io/ceruleantracker-user-m
 May 2025
 - Many changes related to Omnitrack functionality
 - Added web server for configuration -- see user manual
+- Changed Discovery protocol not current Cerulean Sonar format -- you will need to update CeruleanTracker
 
 November 2024
 - Compatibility fixes for new versions of BlueOS
